@@ -1,0 +1,14 @@
+Reddit WritingPrompts Dataset
+
+Download the following files from https://www.kaggle.com/datasets/ratthachat/writing-prompts:
+
+train.wp_source
+train.wp_target
+valid.wp_source
+valid.wp_target
+test.wp_source
+test.wp_target
+
+And put those files in this writingPrompts folder.
+
+Prompts are in "wp_source" and corresponding stories are in "wp_target". Prompts can correspond with multiple stories. Further details can be found: https://arxiv.org/abs/1805.04833. 

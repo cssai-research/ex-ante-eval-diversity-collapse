@@ -1,0 +1,660 @@
+prolificId,order,text,wordCount,createdAt
+p1,1,The future right in your pocket.,6,15:53.4
+p1,2,A phone for a new age.,6,15:53.4
+p1,3,Slim. Sleek. Smartphone.,3,15:53.4
+p1,4,Be smart. Get this phone.,5,15:53.4
+p1,5,Smartphones just got a genius upgrade.,6,15:53.4
+p1,6,The cutting edge of what's possible.,6,15:53.4
+p1,7,A phone that's complex as you,6,15:53.4
+p1,8,One phone to rule them all.,6,15:53.4
+p2,1,Life in your hands,4,16:24.9
+p2,2,The future and universe,4,16:24.9
+p2,3,Mini companion,2,16:24.9
+p2,4,Capture brilliance,2,16:24.9
+p2,5,Beauty you can hold,4,16:24.9
+p2,6,"Crafted for clarity, built for life",6,16:24.9
+p2,7,Redefine possible,2,16:24.9
+p2,8,Power you can feel,4,16:24.9
+p2,9,Live elegantly,2,16:24.9
+p2,10,Your world,2,16:24.9
+p2,11,Fast. Smooth. Limitless,3,16:24.9
+p3,1,Power that keeps up,4,24:22.7
+p3,2,Built for real life,4,24:22.7
+p3,3,Fast when it matters,4,24:22.7
+p3,4,Smart in every way,4,24:22.7
+p3,5,Everything you need in hand,5,24:22.7
+p3,6,So smart it needs own phone,6,24:22.7
+p3,7,Made to get things done,5,24:22.7
+p4,1,A smartphone that feels like home.,6,19:01.4
+p4,2,Beautiful phones for beautiful minds.,5,19:01.4
+p4,3,Our phones put your privacy first.,6,19:01.4
+p5,1,Talk your head off,4,06:21.8
+p5,2,Talk your life away,4,06:21.8
+p5,3,Mr. or Ms. Chatterbox,4,06:21.8
+p5,4,Lets GO!! Mr. Messenger,4,06:21.8
+p5,5,"our phone, your life",4,06:21.8
+p6,1,your new go-to device,4,10:25.6
+p6,2,get some!,2,10:25.6
+p6,3,a new way to phone,5,10:25.6
+p6,4,phonebelieveable!,1,10:25.6
+p7,1,The cutting edge in your pocket.,6,05:30.2
+p7,2,A world of knowledge at hand.,6,05:30.2
+p7,3,Perfect selfies everytime.,3,05:30.2
+p7,4,"Slim, sleek and yours.",4,05:30.2
+p7,5,Make your friends jealous.,4,05:30.2
+p7,6,Cutting edge tech made easy.,5,05:30.2
+p8,1,the newest technology,3,07:50.5
+p8,2,"fast, featured, great battery life",5,07:50.5
+p8,3,only the best,3,07:50.5
+p8,4,beautiful sleek and functional,4,07:50.5
+p8,5,let your imagination run wild,5,07:50.5
+p8,6,built for life,3,07:50.5
+p8,7,impress yourself,2,07:50.5
+p8,8,go with the best,4,07:50.5
+p8,9,be your best,3,07:50.5
+p9,1,"Bold design, bolder performance",4,08:42.7
+p9,2,Power that never sleeps,4,08:42.7
+p9,3,AI and Innovation in your palms,6,08:42.7
+p9,4,"Built for class, built to last",6,08:42.7
+p9,5,"One Device, Seamless Life",4,08:42.7
+p9,6,Experience Luxury,2,08:42.7
+p9,7,Last Phone You'll Ever Buy,5,08:42.7
+p9,8,Be Truly Smart,3,08:42.7
+p9,9,"Connecting People, Connecting Worlds",4,08:42.7
+p10,1,Easy as PIE,3,31:12.8
+p10,2,Never worry again about space,5,31:12.8
+p10,3,Very SMART ...ALL SO TRUE,5,31:12.8
+p10,4,Can't Talk...Number your ways,4,31:12.8
+p10,5,My Phone... My Everything!!,4,31:12.8
+p11,1,Your handheld best friend.,4,06:13.3
+p11,2,Connection. Power. Status.,3,06:13.3
+p11,3,Your door to greater things.,5,06:13.3
+p11,4,Connect with the world.,4,06:13.3
+p11,5,"All in one, all the time.",6,06:13.3
+p11,6,"Innovation, in your hand.",4,06:13.3
+p11,7,The gateway to greater things.,5,06:13.3
+p11,8,"All new, all powerful.",4,06:13.3
+p12,1,Next level every tap,4,09:17.5
+p12,2,Designed for life,3,09:17.5
+p12,3,Stay ahead with friends,4,09:17.5
+p12,4,Power in your hand,4,09:17.5
+p12,5,Think fast and do more,5,09:17.5
+p12,6,Smart machine made for you,5,09:17.5
+p13,1,Let's keep talkin',3,14:25.9
+p13,2,Let's keep connectin',3,14:25.9
+p13,3,A new way to connect,5,14:25.9
+p13,4,A better way to connect,5,14:25.9
+p13,5,We put the connect in connection,6,14:25.9
+p13,6,Connecting one phone at a time,6,14:25.9
+p13,7,Let's stay social,3,14:25.9
+p13,8,We put the smart in smartphone,6,14:25.9
+p13,9,Unity in human connection,4,14:25.9
+p13,10,A smart way to human connection,6,14:25.9
+p13,11,A smart way to connect,5,14:25.9
+p14,1,You can call me anytime!,5,04:40.5
+p14,2,the whole world in your pocket,6,04:40.5
+p14,3,innovation in every phone call,5,04:40.5
+p15,1,Power in your palm,4,06:48.0
+p15,2,Capture life. Instantly,3,06:48.0
+p15,3,The future fits your hand,5,06:48.0
+p15,4,Elevate your everyday moment.,4,06:48.0
+p15,5,See more.  Do more,4,06:48.0
+p15,6,Power the keeps on going,5,06:48.0
+p15,7,Next-level in every tap,4,06:48.0
+p15,8,Think fast.  Live faster,4,06:48.0
+p15,9,Made to move with you,5,06:48.0
+p15,10,Where speed meets style,4,06:48.0
+p15,11,Transcends all intelligence,3,06:48.0
+p15,12,Upgrade how you live,4,06:48.0
+p16,1,Built for Whats Next,4,08:04.6
+p16,2,"Future, unlocked",2,08:04.6
+p16,3,Power in your palm,4,08:04.6
+p16,4,Beyond just speed,3,08:04.6
+p16,5,Brillance in every tap,4,08:04.6
+p16,6,Pocket the impossible,3,08:04.6
+p16,7,"Reality, remastered",2,08:04.6
+p16,8,Tap into tomorrow,3,08:04.6
+p16,9,Magic. minus the wand,4,08:04.6
+p16,10,Hold whats next,3,08:04.6
+p17,1,The best for you,4,04:02.0
+p17,2,Let's get talking,3,04:02.0
+p17,3,Talk to each other,4,04:02.0
+p17,4,Talk to me,3,04:02.0
+p17,5,Talk to everyone,3,04:02.0
+p17,6,The best talking device ever,5,04:02.0
+p17,7,The simplest device,3,04:02.0
+p17,8,So easy anyone can use it,6,04:02.0
+p17,9,The perfect phone,3,04:02.0
+p17,10,The friendly phone,3,04:02.0
+p17,11,Phone home,2,04:02.0
+p17,12,Want to phone a friend?,5,04:02.0
+p17,13,Phone me now,3,04:02.0
+p17,14,Waiting to hear from you,5,04:02.0
+p17,15,I want it for you,5,04:02.0
+p17,16,Waiting for your voice,4,04:02.0
+p17,17,Talk loudly,2,04:02.0
+p18,1,calls always on time,4,06:11.5
+p18,2,my screen is always bright,5,06:11.5
+p18,3,never simple always iconic,4,06:11.5
+p18,4,always on hand,3,06:11.5
+p18,5,in case you need us,5,06:11.5
+p18,6,always on the go,4,06:11.5
+p18,7,never stationary that us,4,06:11.5
+p18,8,for wherever you go,4,06:11.5
+p18,9,one click and its done,5,06:11.5
+p18,10,its always a party here,5,06:11.5
+p18,11,bold and ready,3,06:11.5
+p19,1,Ultra power your life!,4,05:09.6
+p19,2,Pro phone for pro users,5,05:09.6
+p19,3,Social media made simple,4,05:09.6
+p19,4,The world in your palm,5,05:09.6
+p20,1,Give me a call,4,02:15.3
+p20,2,Call you later,3,02:15.3
+p20,3,Leave a message,3,02:15.3
+p20,4,Just call me,3,02:15.3
+p20,5,Phone call,2,02:15.3
+p20,6,best phone,2,02:15.3
+p20,7,tell a phone,3,02:15.3
+p20,8,Text me,2,02:15.3
+p20,9,Pick up the phone,4,02:15.3
+p20,10,Let's talk,2,02:15.3
+p20,11,Want to chat,3,02:15.3
+p20,12,Love to talk,3,02:15.3
+p20,13,Need to chat,3,02:15.3
+p20,14,Chat awhile,2,02:15.3
+p20,15,Please call,2,02:15.3
+p20,16,My phone,2,02:15.3
+p21,1,Take the world with you,5,05:09.4
+p21,2,Your world in your hands,5,05:09.4
+p21,3,Connected on your terms,4,05:09.4
+p21,4,Confidently connected on your terms,5,05:09.4
+p21,5,Smart and connected,3,05:09.4
+p21,6,Smartly connected,2,05:09.4
+p22,1,Love Being A Part of Life,6,03:18.3
+p22,2,Think Connections,2,03:18.3
+p22,3,Connecting You to What Matters,5,03:18.3
+p22,4,Be True to Your Loved Ones,6,03:18.3
+p22,5,Sample the Delights of Connecting,5,03:18.3
+p22,6,One With Your Plans,4,03:18.3
+p22,7,A Simple Text to Affirm Connection,6,03:18.3
+p22,8,"Simple, Beautiful and All Yours",5,03:18.3
+p22,9,Timing Is Everything,3,03:18.3
+p22,10,That Certainty of Connection,4,03:18.3
+p22,11,Enjoy the Sounds of Connection,5,03:18.3
+p22,12,Always Simple to Connect with Friends,6,03:18.3
+p22,13,Adjust Screen Colors for Fun,5,03:18.3
+p23,1,A smartphone that turns the page,6,12:31.3
+p23,2,When your phone is your life,6,12:31.3
+p23,3,Nothing else will do,4,12:31.3
+p23,4,Why trust just anyone?,4,12:31.3
+p23,5,We heard you,3,12:31.3
+p23,6,When you don't want any surprises,6,12:31.3
+p23,7,Reliability at its finest,4,12:31.3
+p24,1,Move with the screen,4,08:08.2
+p24,2,On the go with the phone,6,08:08.2
+p24,3,Phone that fits your life,5,08:08.2
+p24,4,Swipe with ease,3,08:08.2
+p24,5,Movement that excites,3,08:08.2
+p24,6,Screen that entertains you,4,08:08.2
+p25,1,Call whenever and wherever you want,6,04:32.1
+p25,2,Capture every memorable moment,4,04:32.1
+p25,3,Talk like face-to-face,3,04:32.1
+p25,4,Your 7/24 companion,3,04:32.1
+p26,1,Endless Cells,2,25:10.8
+p26,2,Infinity at your fingertips,4,25:10.8
+p26,3,Merging all your worlds,4,25:10.8
+p26,4,Everything and Everything,3,25:10.8
+p26,5,Your New Best Friend,4,25:10.8
+p26,6,Go Beyond,2,25:10.8
+p26,7,Imagination Breathes,2,25:10.8
+p26,8,Seek No More,3,25:10.8
+p27,1,The Ultimate Upgrade,3,12:27.1
+p27,2,See the world through new lense,6,12:27.1
+p27,3,Less noise. More life,4,12:27.1
+p27,4,Capturing the heart of life,5,12:27.1
+p27,5,Every call feels like home,5,12:27.1
+p27,6,"Your vision, brought to life",5,12:27.1
+p27,7,Smarter tech for a smarter you,6,12:27.1
+p27,8,Bring your world closer,4,12:27.1
+p27,9,Stay connected. Stay inspired,4,12:27.1
+p28,1,Smarter than smart,3,02:21.9
+p28,2,The world at your fingertips,5,02:21.9
+p28,3,powered by AI and you,5,02:21.9
+p28,4,Take the leap smartly,4,02:21.9
+p28,5,"Be smart, be connected",4,02:21.9
+p29,1,"Sleek, slim and in your hands",6,10:43.7
+p29,2,"Fast, compact, powerhouse",3,10:43.7
+p29,3,Durable and built to last,5,10:43.7
+p29,4,"Smallest bezel, fastest processing",4,10:43.7
+p29,5,More pixels more fun,4,10:43.7
+p29,6,"Clearer pictures, more editing power",5,10:43.7
+p30,1,Let us connect you!,4,41:47.5
+p30,2,We've got you!,3,41:47.5
+p30,3,Keeping connections strong!,3,41:47.5
+p30,4,We connect you!,3,41:47.5
+p30,5,We've got you covered!,4,41:47.5
+p30,6,Count on us to connect you!,6,41:47.5
+p30,7,We keep you connected!,4,41:47.5
+p30,8,Coverage begins here!,3,41:47.5
+p31,1,"Your Money, Your Phone",4,13:25.4
+p31,2,You wouldn't want another.,4,13:25.4
+p31,3,You're Never Far Away.,4,13:25.4
+p31,4,Let the conversation continue.,4,13:25.4
+p32,1,AI Free!,2,03:17.0
+p32,2,Made for humans,3,03:17.0
+p32,3,Privacy made simple,3,03:17.0
+p32,4,Made by humans for humans,5,03:17.0
+p33,1,Connect with the world,4,07:22.8
+p33,2,Form lasting connections,3,07:22.8
+p33,3,"High-tech, durable, reliable. It's all there.",6,07:22.8
+p33,4,Stay in touch and in style.,6,07:22.8
+p34,1,Ready Whenever You Are,4,00:11.5
+p34,2,Smart and Fast,3,00:11.5
+p34,3,Technically Advanced and Innovative,4,00:11.5
+p34,4,Jump into Adventure,3,00:11.5
+p34,5,The Best Phone Camera Ever,5,00:11.5
+p34,6,Never Give Up,3,00:11.5
+p34,7,Great for Anyone,3,00:11.5
+p35,1,Efficiency on a whole new level,6,01:23.1
+p35,2,The world in your palm,5,01:23.1
+p35,3,Realize greatness every single day,5,01:23.1
+p35,4,We run on your time,5,01:23.1
+p35,5,Encapsulate your life,3,01:23.1
+p35,6,Real world elegance,3,01:23.1
+p35,7,Excitement you can feel,4,01:23.1
+p35,8,You got this!,3,01:23.1
+p36,1,Intelligence in your brain and hand,6,28:12.5
+p36,2,Sleek and innovative without the compromise,6,28:12.5
+p36,3,"Why wait, grab this smartphone",5,28:12.5
+p36,4,Your life in one spot,5,28:12.5
+p36,5,"Durable, innovative, sleek",3,28:12.5
+p36,6,A new world in your palm,6,28:12.5
+p36,7,Better than a laptop,4,28:12.5
+p36,8,Computer status but in phone,5,28:12.5
+p36,9,"Music, pictures, life, made easier",5,28:12.5
+p36,10,"Life's hard, make it easier",5,28:12.5
+p36,11,All's you need is  your voice,6,28:12.5
+p36,12,"Innovative technology, Artist designed",4,28:12.5
+p36,13,Weight and looks DO matter,5,28:12.5
+p37,1,Charge in minutes. Last for days.,6,09:18.5
+p37,2,The camera that speaks life.,5,09:18.5
+p37,3,Stream faster than wind.,4,09:18.5
+p37,4,Created for you.,3,09:18.5
+p37,5,Smarter AI. Better performance.,4,09:18.5
+p38,1,phones that are simple to use,6,07:39.6
+p38,2,phones that do the work,5,07:39.6
+p38,3,An easier phone to navigate,5,07:39.6
+p38,4,let the phone do the thinking,6,07:39.6
+p39,1,Always on!,2,14:27.0
+p39,2,Can your smart phone do this?,6,14:27.0
+p39,3,Next level intelligence,3,14:27.0
+p40,1,A camera faster than light,5,01:24.0
+p40,2,"The world, in your hands.",5,01:24.0
+p40,3,Full speed ahead,3,01:24.0
+p40,4,Make every moment count,4,01:24.0
+p40,5,"Capture tomorrow, today.",3,01:24.0
+p41,1,"Cut the noise, get the signal!",6,08:14.5
+p41,2,"Our phone rocks, theirs just bricks!",6,08:14.5
+p41,3,Simply the best phone ever made!,6,08:14.5
+p41,4,"More signal, less noise. Better Calls!",6,08:14.5
+p41,5,You cannot order pizza without one!,6,08:14.5
+p42,1,power in your pocket,4,04:25.2
+p42,2,smarter every single moment,4,04:25.2
+p42,3,more than just a phone,5,04:25.2
+p42,4,"your world, one tap away",5,04:25.2
+p42,5,"think fast, live faster",4,04:25.2
+p42,6,designed to keep up,4,04:25.2
+p42,7,built for whats next,4,04:25.2
+p42,8,innovation you can feel,4,04:25.2
+p43,1,Your world in the phone,5,08:34.5
+p43,2,U phone home,3,08:34.5
+p43,3,Never miss a ring,4,08:34.5
+p43,4,We know life gets busy ringu,6,08:34.5
+p43,5,Never miss moments,3,08:34.5
+p43,6,Capture your world one click,5,08:34.5
+p43,7,Support from us your phone,5,08:34.5
+p44,1,"Great phone, better life",4,49:25.2
+p45,1,"Technology, simplified.",2,04:44.3
+p45,2,The future in your hands.,5,04:44.3
+p45,3,Progress unleashed and unlocked,4,04:44.3
+p45,4,The future of smartphones,4,04:44.3
+p45,5,The smartphone you deserve,4,04:44.3
+p45,6,"Fast, simple, innovative.",3,04:44.3
+p45,7,Innovation that fits in your pocket,6,04:44.3
+p45,8,"My device, not iDevice",4,04:44.3
+p46,1,"small phone, big main character energy",6,10:51.9
+p46,2,small scale. grand performance,4,10:51.9
+p46,3,precision power but beautifully minimal,5,10:51.9
+p46,4,elegance scaled down. Power scaled up.,6,10:51.9
+p46,5,"premium power, next gen performance",5,10:51.9
+p47,1,Designed to help you succeed,5,11:39.1
+p47,2,Designed for you,3,11:39.1
+p47,3,Designed around you,3,11:39.1
+p47,4,Designed to make you unstoppable,5,11:39.1
+p48,1,The Call Is Right On Time,6,27:25.8
+p48,2,"Clear calls, clear service",4,27:25.8
+p48,3,"Connection, everywhere",2,27:25.8
+p48,4,New Phone Who Dis?,4,27:25.8
+p48,5,A phone for all things,5,27:25.8
+p48,6,Best phone for every need,5,27:25.8
+p48,7,"Great service, all the time",5,27:25.8
+p48,8,Where connection is always there,5,27:25.8
+p49,1,Your calling is with us.,5,07:39.7
+p49,2,Incredible power within your pocket.,5,07:39.7
+p49,3,Stylish and full of features.,5,07:39.7
+p49,4,Simple and dependable is our goal.,6,07:39.7
+p49,5,AI powered phone system.,4,07:39.7
+p49,6,All day battery for power users.,6,07:39.7
+p50,1,Power in your palm,4,06:12.4
+p50,2,Speed meets style,3,06:12.4
+p50,3,Beyond Ssmart,2,06:12.4
+p50,4,The future fits here,4,06:12.4
+p50,5,Capture life brilliantly,3,06:12.4
+p50,6,Built for your pace,4,06:12.4
+p50,7,Elevate every moment,3,06:12.4
+p50,8,Tech that gets you,4,06:12.4
+p50,9,Fast. Fluid. Fearless.,3,06:12.4
+p50,10,Make every second count,4,06:12.4
+p50,11,"Pure performance, no compromise",4,06:12.4
+p50,12,Next lever everything,3,06:12.4
+p50,13,elevate every moment,3,06:12.4
+p50,14,Elevate how you connect,4,06:12.4
+p50,15,Tag into something better,4,06:12.4
+p50,16,Keep life in motion,4,06:12.4
+p50,17,Designed for the driven,4,06:12.4
+p51,1,Your life in your hands.,5,07:47.5
+p51,2,Access the world with your fingers.,6,07:47.5
+p51,3,The world in your hands.,5,07:47.5
+p51,4,Carry the world with you.,5,07:47.5
+p51,5,Everything fits in your pocket.,5,07:47.5
+p51,6,More advanced than a moon lander.,6,07:47.5
+p51,7,Big things in small packages.,5,07:47.5
+p51,8,"Not just smart, brilliant.",4,07:47.5
+p51,9,"Not just a phone, an experience.",6,07:47.5
+p52,1,Internet on the go,4,40:15.6
+p52,2,Connecting with the world,4,40:15.6
+p52,3,Making connections worldwide,3,40:15.6
+p52,4,Innovative. Fast. Reliable.,3,40:15.6
+p52,5,Feel the future,3,40:15.6
+p52,6,Get into the future,4,40:15.6
+p52,7,Futuristic living,2,40:15.6
+p53,1,Finally a gamer's phone!,4,09:42.8
+p53,2,Triple screen for sports fans,5,09:42.8
+p53,3,Make your videos like a pro,6,09:42.8
+p53,4,Lighter than a notebook,4,09:42.8
+p53,5,"It's not a phone, it's art",6,09:42.8
+p53,6,"Finally, a phone that gets you",6,09:42.8
+p53,7,At the forefront of phone intelligence,6,09:42.8
+p54,1,Hear Me Anywhere,3,08:35.5
+p54,2,Connect Anywhere,2,08:35.5
+p54,3,Use for All,3,08:35.5
+p54,4,Just Hit Send,3,08:35.5
+p54,5,I Can Hear You,4,08:35.5
+p54,6,Friends Forever,2,08:35.5
+p54,7,Go Anywhere,2,08:35.5
+p55,1,"Be smart, buy smart",4,13:20.8
+p55,2,Where talk isn't cheap,4,13:20.8
+p55,3,Connection matters,2,13:20.8
+p55,4,Where importance matters,3,13:20.8
+p55,5,Your voice matters,3,13:20.8
+p55,6,New is cool,3,13:20.8
+p55,7,Bringing the world and family closer,6,13:20.8
+p55,8,All in one,3,13:20.8
+p56,1,Stunning visuals without sacrificing performance,5,33:22.7
+p56,2,More than a phone,4,33:22.7
+p56,3,Perfectly in sync with you,5,33:22.7
+p56,4,Communicate fearlessly,2,33:22.7
+p56,5,The world is in your hands,6,33:22.7
+p57,1,We invent the future,4,11:10.3
+p57,2,Faster than Apple,3,11:10.3
+p57,3,The true definition of innovation,5,11:10.3
+p57,4,Ideas packed within a phone,5,11:10.3
+p58,1,Head into the future,4,08:15.4
+p58,2,"Talk, text, work from anywhere",5,08:15.4
+p58,3,Always connected,2,08:15.4
+p58,4,The future of communications,4,08:15.4
+p58,5,Yap all you want,4,08:15.4
+p58,6,Chatting into the future,4,08:15.4
+p59,1,be smart,2,07:15.8
+p59,2,"smart phone, your way",4,07:15.8
+p59,3,the future - now!,4,07:15.8
+p59,4,live your life the smart way,6,07:15.8
+p59,5,"our phone, smart life",4,07:15.8
+p59,6,smart life,2,07:15.8
+p59,7,"our phone, your life = better",6,07:15.8
+p60,1,Think Less. Do more,4,13:18.4
+p60,2,Your choices. Your destiny,4,13:18.4
+p60,3,Life is too short for slow,6,13:18.4
+p60,4,Be seen. Be heard,4,13:18.4
+p60,5,Always a step ahead,4,13:18.4
+p60,6,Don't drop. Keep going,4,13:18.4
+p61,1,Bringing people together,3,11:35.9
+p61,2,Everyone is talking about it,5,11:35.9
+p61,3,All the power in your hands,6,11:35.9
+p61,4,An exceptional experience,3,11:35.9
+p61,5,Does everything,2,11:35.9
+p61,6,Not your ordinary phone,4,11:35.9
+p61,7,The smartest choice you could make,6,11:35.9
+p61,8,Sensational,1,11:35.9
+p62,1,Call immediately,2,11:26.6
+p62,2,With you wherever you want,5,11:26.6
+p62,3,Your trusted phone,3,11:26.6
+p62,4,My faithful companion,3,11:26.6
+p62,5,Your friend with you,4,11:26.6
+p62,6,You and me,3,11:26.6
+p62,7,I do it for you,5,11:26.6
+p62,8,Smart wherever you go,4,11:26.6
+p63,1,Power for your hand each day,6,46:23.9
+p63,2,"Faster Phone, Better life for you",6,46:23.9
+p63,3,"What you need, When you need.",6,46:23.9
+p64,1,Lightspeed is under statement,4,02:32.0
+p64,2,Sync with your Family,4,02:32.0
+p64,3,Connect with your Family,4,02:32.0
+p64,4,New phone new You,4,02:32.0
+p64,5,Art in your hand,4,02:32.0
+p64,6,Smart starts from your hand,5,02:32.0
+p64,7,Idea in your hand,4,02:32.0
+p64,8,Future is in your grasp,5,02:32.0
+p64,9,AI your best Friend,4,02:32.0
+p65,1,AI in your hand,4,23:39.0
+p65,2,smart me smart phone,4,23:39.0
+p65,3,speed in your hands,4,23:39.0
+p65,4,phone for aliens,3,23:39.0
+p65,5,phone my new companion,4,23:39.0
+p66,1,Speed and style,3,04:01.5
+p66,2,One flip and your phone goes,6,04:01.5
+p66,3,Flipping out over here!,4,04:01.5
+p66,4,Your new SMARTERphone,3,04:01.5
+p66,5,Your new everything device,4,04:01.5
+p66,6,The big brain smartphone,4,04:01.5
+p67,1,"Power in your pocket, always.",5,04:10.8
+p67,2,Feel the future in your hands.,6,04:10.8
+p67,3,Built to outperform your expectations.,5,04:10.8
+p67,4,Make every second smarter.,4,04:10.8
+p67,5,Where innovation fits your palm.,5,04:10.8
+p67,6,"Stay ahead, stay connected.",4,04:10.8
+p67,7,Make every second smarter.,4,04:10.8
+p67,8,"One touch, infinite possibilities.",4,04:10.8
+p68,1,"See more, Do more, Be more.",6,13:35.4
+p68,2,"Next level speed, Zero limits.",5,13:35.4
+p68,3,The future in your hand.,5,13:35.4
+p68,4,Built for what's next.,4,13:35.4
+p68,5,"Think faster, Do more.",4,13:35.4
+p68,6,Innovation that fits your life.,5,13:35.4
+p68,7,Capture more. Miss nothing.,4,13:35.4
+p68,8,Effortless power in your pocket.,5,13:35.4
+p68,9,Where style meets intelligence.,4,13:35.4
+p68,10,Make every moment smarter.,4,13:35.4
+p68,11,Power your everyday brilliance.,4,13:35.4
+p68,12,Designed for your next moment.,5,13:35.4
+p69,1,Power in your pocket,4,05:31.5
+p69,2,"More signal, less compromises",4,05:31.5
+p69,3,Innovation that you can hold,5,05:31.5
+p69,4,"Charge less, do more",4,05:31.5
+p69,5,Your phone just got smarter,5,05:31.5
+p69,6,"Unlock to amaze, instantly",4,05:31.5
+p69,7,Tap into the future,4,05:31.5
+p69,8,Built for non-stop scrolling,4,05:31.5
+p69,9,"Swipe faster & smarter, live better",6,05:31.5
+p69,10,"Capture life, not photos",4,05:31.5
+p69,11,"Charge less, do more",4,05:31.5
+p70,1,Touch your future,3,11:26.0
+p70,2,Upgrade your life,3,11:26.0
+p70,3,Enter your digital world,4,11:26.0
+p70,4,Your smart companion,3,11:26.0
+p70,5,Elevate your life experience,4,11:26.0
+p70,6,Expand your imagination,3,11:26.0
+p70,7,Optimize your thoughts,3,11:26.0
+p70,8,Redefine your world,3,11:26.0
+p71,1,Excellence at your fingertips!,4,01:06.8
+p71,2,Information and fun on demand.,5,01:06.8
+p71,3,Best phone ever!,3,01:06.8
+p71,4,The biggest helper in your life.,6,01:06.8
+p71,5,The best technology yet.,4,01:06.8
+p71,6,The world is your oyster!,5,01:06.8
+p72,1,"New phone, new you.",4,01:18.4
+p72,2,"I'm me, you're you, iPhone?",5,01:18.4
+p72,3,You're not getting any younger.,5,01:18.4
+p72,4,"Be bold, upgrade today.",4,01:18.4
+p72,5,Everyone could use something smarter.,5,01:18.4
+p72,6,Everyone else is doing it.,5,01:18.4
+p72,7,"Don't be left out, upgrade today.",6,01:18.4
+p72,8,We both know you deserve it.,6,01:18.4
+p72,9,"Treat yourself, who else will?",5,01:18.4
+p72,10,It pays to be smart.,5,01:18.4
+p72,11,"Make life easier, make life smart.",6,01:18.4
+p72,12,Time saved is time gained.,5,01:18.4
+p73,1,Make Smart Connections,3,05:39.8
+p73,2,"Smart Phone, Smart User",4,05:39.8
+p73,3,Elevating Social Connectivity,3,05:39.8
+p73,4,Connection is One Click Away,5,05:39.8
+p73,5,Limitless Communication,2,05:39.8
+p74,1,Pick Up The Phone!,4,11:45.9
+p74,2,Your Daily Companion,3,11:45.9
+p74,3,"There When You Need It, Guaranteed",6,11:45.9
+p75,1,Power in your pocket,4,09:09.0
+p75,2,Future fits in your hand,5,09:09.0
+p75,3,Think faster. Do more,4,09:09.0
+p75,4,Innovation you can feel,4,09:09.0
+p75,5,Beyond smart. Truly brilliant,4,09:09.0
+p75,6,"Your world, one tao away",5,09:09.0
+p75,7,Capture like. instantly better,4,09:09.0
+p75,8,Speed meets sleek design,4,09:09.0
+p76,1,The world at your fingertips,5,09:11.3
+p76,2,"Talk, text, transform",3,09:11.3
+p76,3,Always connected,2,09:11.3
+p77,1,The world in your palm,5,23:13.1
+p77,2,Join Team Lightning,3,23:13.1
+p77,3,Ludicrous Speed,2,23:13.1
+p77,4,"Sleek design, Lightspeed connectivity",4,23:13.1
+p78,1,The future of smartphone technology,5,03:46.3
+p78,2,"Innovation, Precision, Luxury",3,03:46.3
+p78,3,A new world in your pocket,6,03:46.3
+p78,4,Bringing the future to you,5,03:46.3
+p78,5,The next step in connection,5,03:46.3
+p78,6,Connecting you to the world around,6,03:46.3
+p78,7,Convenience and power,3,03:46.3
+p79,1,Today's New Adventure,3,06:34.3
+p79,2,Smart Beyond Limits,3,06:34.3
+p79,3,Power In Your Hands,4,06:34.3
+p79,4,A New Wave In Your Hands,6,06:34.3
+p79,5,Today's New Experience,3,06:34.3
+p79,6,A New Way To Explore,5,06:34.3
+p79,7,Everybody Wants One,3,06:34.3
+p79,8,A Sunshine Is Happening,4,06:34.3
+p79,9,Dream My Way,3,06:34.3
+p79,10,Experience Is Here,3,06:34.3
+p80,1,"Smarter Performance, simpler everyday life",5,04:10.3
+p80,2,Power that keeps up with you,6,04:10.3
+p80,3,upgrade everything without the extra effort,6,04:10.3
+p80,4,"Designed for speed, built for you",6,04:10.3
+p80,5,"Next leveled power, in your pocket",6,04:10.3
+p81,1,"Fast, intelligent, and sleek",4,29:36.0
+p81,2,Unharness the world,3,29:36.0
+p81,3,Grasp the future,3,29:36.0
+p81,4,Tomorrow is today,3,29:36.0
+p81,5,Never look back,3,29:36.0
+p81,6,Computer in your pocket,4,29:36.0
+p82,1,"Your screen, your call",4,26:49.0
+p82,2,Can't stop this call,4,26:49.0
+p82,3,Everything in one,3,26:49.0
+p82,4,The smart future,3,26:49.0
+p82,5,Nerd's best friend,3,26:49.0
+p83,1,Embrace Innovation,2,00:46.3
+p83,2,Find Yourself With Technology,4,00:46.3
+p83,3,Connect with world like never before,6,00:46.3
+p83,4,Take a Selfie with Confidence,5,00:46.3
+p83,5,With the longest battery life ever,6,00:46.3
+p83,6,The most durable of all time,6,00:46.3
+p84,1,Keep your world close to heart.,6,07:01.8
+p84,2,Stay curious. Stay connected.,4,07:01.8
+p84,3,"Everything you need, within reach.",5,07:01.8
+p85,1,You in a phone,4,05:54.7
+p85,2,Keeping you connected like never before,6,05:54.7
+p85,3,Stay connected,2,05:54.7
+p85,4,Your best all-in-one,3,05:54.7
+p85,5,Smart phones for a smarter you,6,05:54.7
+p86,1,Each Click is A Connection,5,07:24.8
+p86,2,Swipe Into the Future,4,07:24.8
+p86,3,Communication Made Easy,3,07:24.8
+p86,4,Don't Be Alone,3,07:24.8
+p86,5,"Fast, Fun, and Functional",4,07:24.8
+p86,6,"Smart, Sleek, Sexy",3,07:24.8
+p87,1,Handles Everything but the Laundry,5,02:53.2
+p87,2,Texting Never Looked So Good,5,02:53.2
+p87,3,"Big Processor, Slim Design",4,02:53.2
+p87,4,A phone for tech people,5,02:53.2
+p87,5,Bigger Screen for Bigger Ideas,5,02:53.2
+p87,6,Nobody Talks on the Phone,5,02:53.2
+p87,7,"Compant and Neutral, goes with everything",6,02:53.2
+p87,8,"Balance yet sophisticated, like you",5,02:53.2
+p88,1,Connect with Creativity,3,05:38.7
+p88,2,The whole world in your hand,6,05:38.7
+p88,3,Pocket 'Puter,2,05:38.7
+p88,4,"Complexity, Simplified",2,05:38.7
+p88,5,"Work from home, from your pocket",6,05:38.7
+p88,6,The Amazing Digital Cellular Smart Device,6,05:38.7
+p89,1,Connected to Everything,3,01:38.4
+p89,2,Your Everything Device,3,01:38.4
+p89,3,Phone meets Future,3,01:38.4
+p89,4,The One to Rule Them All,6,01:38.4
+p89,5,Connected in Style,3,01:38.4
+p89,6,Connectivity Reimagined,2,01:38.4
+p89,7,The Future of Phone,4,01:38.4
+p89,8,Phone X,2,01:38.4
+p90,1,Snap into creativity with Snapdragon,5,21:55.0
+p90,2,Infinite pixels for infinite possibilities,5,21:55.0
+p90,3,Simple. Powerful. You.,3,21:55.0
+p90,4,Your phone. Your realm.,4,21:55.0
+p90,5,The future of phones.,4,21:55.0
+p91,1,Visualizing the World of Tomorrow,5,05:51.8
+p91,2,Connected to the Future,4,05:51.8
+p91,3,Now Connecting You to the Future,6,05:51.8
+p91,4,"The Smartphone of Tomorrow, Today",5,05:51.8
+p91,5,"Tomorrow, Today",2,05:51.8
+p92,1,Be smart about it,4,06:10.7
+p92,2,Your choice is now,4,06:10.7
+p92,3,Fast is here,3,06:10.7
+p92,4,We are the future,4,06:10.7
+p93,1,To innovation... and beyond,4,23:53.2
+p93,2,Simplicity made easy,3,23:53.2
+p93,3,Innovation at hand,3,23:53.2
+p93,4,Redefining innovative simplicity,3,23:53.2
+p93,5,Power endlessness,2,23:53.2
+p93,6,Life simplicity at your hands,5,23:53.2
+p94,1,Call the person on your mind,6,29:18.1
+p94,2,The answer is in your phone,6,29:18.1
+p94,3,They don't but it does,5,29:18.1
+p94,4,A phone that knows you,5,29:18.1
+p94,5,It's ready to help,4,29:18.1
+p94,6,Hear that? It's for you,5,29:18.1
+p94,7,Use it for everything,4,29:18.1
+p94,8,Expensive because it's worth it,5,29:18.1
+p94,9,Like to phone a friendly?,5,29:18.1
+p94,10,It's ok phone it in,5,29:18.1
+p95,1,Smarter phone. Smarter you.,4,04:41.7
+p95,2,Capture life instantly.,3,04:41.7
+p95,3,Built for every moment.,4,04:41.7
+p95,4,Technology that understands you.,4,04:41.7
+p95,5,Think It. Tap It. Done.,5,04:41.7
+p95,6,tHINK less do more,4,04:41.7
